@@ -18,8 +18,8 @@ baseurl: "/gunbam" # the subpath of your site, e.g. /blog
 
 title      : Gunbam Company
 email      : bhban@kakao.com
-description: "gunbam"
-author     : gunbam
+description: "군밤을 사랑하는 사람 중에 나쁜 사람 없어요"
+author     : 군밤 사장
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
