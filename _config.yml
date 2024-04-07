@@ -17,7 +17,7 @@ url    : "https://brilliantsea.github.io" # the base hostname & protocol for you
 baseurl: "/gunbam" # the subpath of your site, e.g. /blog
 
 title      : Gunbam Company
-email      : valley0430@naver.com
+email      : abc
 description: "gunbam"
 author     : gunbam
 # logo:     #optional, defaults to site title
